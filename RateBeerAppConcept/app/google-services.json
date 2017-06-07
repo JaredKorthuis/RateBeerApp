@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675311177562",
+    "project_id": "finaloauth-161201"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675311177562:android:9d2438629256432f",
+        "android_client_info": {
+          "package_name": "edu.korthuijoregonstate.fartbubble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675311177562-rvrppm82cus6qq3lnfq2nlf9tnarjn1p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "675311177562-derv406evb9pm902o11491am8jflbddi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.korthuijoregonstate.fartbubble",
+            "certificate_hash": "3e7cbd0cf4e9e3485c545876814b8fd8b81c3678"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6iOvy_7FoaOXmlQNsLeVMNPpFqF1Cucw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
